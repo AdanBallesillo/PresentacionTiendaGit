@@ -1,0 +1,10 @@
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\bin\Debug\PresentacionTiendaGit.exe.config
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\bin\Debug\PresentacionTiendaGit.exe
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\bin\Debug\PresentacionTiendaGit.pdb
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\obj\Debug\PresentacionTiendaGit.csproj.AssemblyReference.cache
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\obj\Debug\PresentacionTiendaGit.Form1.resources
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\obj\Debug\PresentacionTiendaGit.Properties.Resources.resources
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\obj\Debug\PresentacionTiendaGit.csproj.GenerateResource.cache
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\obj\Debug\PresentacionTiendaGit.csproj.CoreCompileInputs.cache
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\obj\Debug\PresentacionTiendaGit.exe
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\obj\Debug\PresentacionTiendaGit.pdb
