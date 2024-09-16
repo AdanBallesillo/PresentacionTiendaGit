@@ -8,3 +8,16 @@ C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\obj\Debug\Pre
 C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\obj\Debug\PresentacionTiendaGit.csproj.CoreCompileInputs.cache
 C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\obj\Debug\PresentacionTiendaGit.exe
 C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\obj\Debug\PresentacionTiendaGit.pdb
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\bin\Debug\Manejador.dll
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\bin\Debug\AccesoDatos.dll
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\bin\Debug\Conexion.dll
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\bin\Debug\MySql.Data.dll
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\bin\Debug\System.Memory.dll
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\bin\Debug\System.Buffers.dll
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\bin\Debug\Manejador.pdb
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\bin\Debug\AccesoDatos.pdb
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\bin\Debug\Conexion.pdb
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\obj\Debug\PresentacionTiendaGit.FrmAgregar.resources
+C:\Users\adan_\Desktop\PresentacionTiendaGit\PresentacionTiendaGit\obj\Debug\PresentacionTiendaGit.csproj.CopyComplete
